@@ -1,3 +1,4 @@
+# A great demo effect
 import sys
 
 def make_greeting(name):
