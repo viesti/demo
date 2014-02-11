@@ -1,3 +1,4 @@
+# comment
 import sys
 
 def make_greeting(name):
